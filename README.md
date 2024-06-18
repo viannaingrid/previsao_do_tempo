@@ -1,6 +1,6 @@
 <h1>Site que mostra o tempo de acordo com a cidade</h1>
 
-<p>Site criado com HTML, CSS e JavaScript, para a visualização do tempo de acordo com a cidade. <br>
+<p>Site criado com HTML, CSS e JavaScript, para a visualização do tempo de acordo com a cidade, com integração com a API de tempo OpenWeatherMap <br>
   Iniciando com o tempo de São Paulo, informando qual a temperatura atual, abaixo indicando com um icone como está o tempo e escrito. <br>
   Abaixo indica a umidade da região.
 </p>
